@@ -16,9 +16,11 @@ using namespace std;
 
 //****Field Declarations****
 extern char* debug_flags;
-void run_exe(string program);
 
-//****Method Declarations****
- void set_debug_flags(char* optarg);
+//****Function Declarations****
+void run_exe(string program);
+void set_debug_flags(char* optarg);
+void start_log_entry();
+void end_log_entry();
 
 #endif

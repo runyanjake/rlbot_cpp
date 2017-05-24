@@ -13,14 +13,16 @@
 //****Variables****
 char* debug_flags;
 
+
+//****Function Implementations****
+
 /*
  * Runs a file from the program executable folder. 
  * @pre ./exe/program.exe must exist.
  */
 void run_exe(string program){
-	string cmd = "exe/" + program;
-	printf("Running: ./%s...\n", cmd.c_str());
-	system(cmd.c_str());
+	printf("Running: %s...\n", program.c_str());
+	system(program.c_str());
 }
 
 /*
@@ -31,3 +33,11 @@ void set_debug_flags(char* optarg){
 	debug_flags = optarg;
 }
 
+
+void start_log_entry(){
+
+}
+
+void end_log_entry(){
+
+}
