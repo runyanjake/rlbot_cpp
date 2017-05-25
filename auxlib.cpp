@@ -12,6 +12,7 @@
 
 //****Variables****
 char* debug_flags;
+string lastexe = "";
 
 
 //****Function Implementations****
@@ -21,7 +22,10 @@ char* debug_flags;
  * @pre ./exe/program.exe must exist.
  */
 void run_exe(string program){
-	printf("Running: %s...\n", program.c_str());
+	if(program != lastexe){ //only update when there's a new program being run.
+		printf("Running: %s...\n", program.c_str());
+		lastexe = program;
+	}
 	system(program.c_str());
 }
 
@@ -34,10 +38,30 @@ void set_debug_flags(char* optarg){
 }
 
 
-void start_log_entry(){
+void start_log_entry(int itors){
+	FILE* log = fopen("log.txt", "w");
+	fprintf(log, "----- Entry at %s -----\nRequested number of iterations: %d.\n", currentDateTime().c_str(), itors);
+	fclose(log);
+}
 
+void make_log_entry(string msg, string callee){
+	FILE* log = fopen("log.txt", "w");
+	fprintf(log, "%s-%s: %s\n", callee.c_str(), currentDateTime().c_str(), msg.c_str());
+	fclose(log);
 }
 
 void end_log_entry(){
+	FILE* log = fopen("log.txt", "w");
+	fprintf(log, "----- Process Completed -----\n-----------------------------\n\n");
+	fclose(log);
+}
 
+string currentDateTime() {
+    time_t     now = time(0);
+    struct tm  tstruct;
+    char       buf[80];
+    tstruct = *localtime(&now);
+    strftime(buf, sizeof(buf), "%Y-%m-%d.%X", &tstruct);
+
+    return buf;
 }
