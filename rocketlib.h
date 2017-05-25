@@ -17,9 +17,6 @@ using namespace std;
 //****Local Includes****
 #include "auxlib.h"
 
-//****Field Declarations****
-static int primes[] = {450,420,390,360,330,300,270,240,210,180,150,120,90,60,30}; 
-
 //****Function Declarations****
 void start_rl();
 void bot_loop();

@@ -11,7 +11,8 @@
 #include "rocketlib.h"
 #include "auxlib.h"
 
-//****Variables****
+//****Field Declarations****
+static int primes[] = {450,420,390,360,330,300,270,240,210,180,150,120,90,60,30}; 
 
 //****Function Implementations****
 /*

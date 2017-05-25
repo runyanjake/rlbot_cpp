@@ -41,12 +41,13 @@ int main(int argc, char** argv){
 		num_iterations = INFINITY;
 	}
 
+	FILE* log = fopen("log.txt", "a");
+
 	//Begin body of program.
-	start_log_entry(num_iterations);
-	
+	start_log_entry(log, num_iterations);
 	ballcam_switcher_chatty(num_iterations);
+	end_log_entry(log);
 
-	end_log_entry();
-
-	
+	cout << "***************** COMPLETED ******************\n**********************************************\n";
+	fclose(log);
 }
