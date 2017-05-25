@@ -38,16 +38,22 @@ void set_debug_flags(char* optarg){
 }
 
 
-void start_log_entry(FILE* log, int itors){
-	fprintf(log, "------- Entry at %s -------\r\nRequested number of iterations: %d.\r\n", currentDateTime().c_str(), itors);
+void start_log_entry(int itors){
+	FILE* log = fopen("log.txt", "a");
+	fprintf(log, "----------------------------------------------------------------------\r\n-------------------- Entry at %s --------------------\r\nRequested number of iterations: %d.\r\n", currentDateTime().c_str(), itors);
+	fclose(log);
 }
 
-void make_log_entry(FILE* log, string msg, string callee){
+void make_log_entry(string msg, string callee){
+	FILE* log = fopen("log.txt", "a");
 	fprintf(log, "%s-%s: %s\r\n", callee.c_str(), currentDateTime().c_str(), msg.c_str());
+	fclose(log);
 }
 
-void end_log_entry(FILE* log){
-	fprintf(log, "------------ Process Completed -------------\r\n--------------------------------------------\r\n\r\n");
+void end_log_entry(){
+	FILE* log = fopen("log.txt", "a");
+	fprintf(log, "------------------------- Process Completed --------------------------\r\n----------------------------------------------------------------------\r\n\r\n");
+	fclose(log);
 }
 
 string currentDateTime() {

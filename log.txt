@@ -1,20 +1,19 @@
------ Entry at 2017-05-25.11:52:22 -----
+------- Entry at 2017-05-25.15:47:13 -------
 Requested number of iterations: 3.
------ Process Completed -----
------------------------------
-
------ Entry at 2017-05-25.11:56:48 -----
-Requested number of iterations: 7.
------ Process Completed -----
------------------------------
-
-------- Entry at 2017-05-25.12:00:58 -------
-Requested number of iterations: 7.
----------- Process Completed ----------
----------------------------------------
-
-------- Entry at 2017-05-25.12:04:50 -------
-Requested number of iterations: 7.
+Sending string: sorry+controller+broken.
+RLBotAutom: Exited with error status 0. 5 iterations were made.
+RLBotAutom: Exited with error status 0. 5 iterations were made.
+RLBotAutom: Exited with error status 0. 5 iterations were made.
 ------------ Process Completed -------------
 --------------------------------------------
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-25.15:49:01 --------------------
+Requested number of iterations: 3.
+Sending string: sorry+controller+broken.
+RLBotAutom: Exited with error status 0. 5 iterations were made.
+RLBotAutom: Exited with error status 0. 5 iterations were made.
+RLBotAutom: Exited with error status 0. 5 iterations were made.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
 
