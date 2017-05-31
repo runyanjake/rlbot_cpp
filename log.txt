@@ -1,19 +1,554 @@
-------- Entry at 2017-05-25.15:47:13 -------
-Requested number of iterations: 3.
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-28.01:36:09 --------------------
+Requested number of iterations: 150000.
+2017-05-28.01:36:09: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.01:36:19: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
 Sending string: sorry+controller+broken.
-RLBotAutom: Exited with error status 0. 5 iterations were made.
-RLBotAutom: Exited with error status 0. 5 iterations were made.
-RLBotAutom: Exited with error status 0. 5 iterations were made.
------------- Process Completed -------------
---------------------------------------------
+2017-05-28.01:36:52: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.01:53:55: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.01:54:05: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.02:11:08: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.02:11:18: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.02:28:33: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.02:28:42: exe/RLBotAutom.exe: file was run 1 or more times.
 
 ----------------------------------------------------------------------
--------------------- Entry at 2017-05-25.15:49:01 --------------------
-Requested number of iterations: 3.
+-------------------- Entry at 2017-05-28.02:30:22 --------------------
+Requested number of iterations: 150000.
+2017-05-28.02:30:22: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.02:30:31: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
 Sending string: sorry+controller+broken.
-RLBotAutom: Exited with error status 0. 5 iterations were made.
-RLBotAutom: Exited with error status 0. 5 iterations were made.
-RLBotAutom: Exited with error status 0. 5 iterations were made.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-28.12:33:40 --------------------
+Requested number of iterations: 150000.
+2017-05-28.12:33:40: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.12:33:50: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-28.12:33:58: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-28.12:50:54 --------------------
+Requested number of iterations: 150000.
+2017-05-28.12:50:54: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.12:51:04: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-28.12:51:11: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-28.13:02:27 --------------------
+Requested number of iterations: 150000.
+2017-05-28.13:02:27: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.13:02:37: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-28.13:02:44: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.13:19:53: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.13:20:03: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.13:37:07: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.13:37:17: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.13:54:29: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.13:54:39: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.14:11:38: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.14:11:48: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.14:25:29: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-28.14:25:37: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.14:29:09: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.14:29:19: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.14:36:16: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-28.14:36:23: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.14:46:45: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.14:46:55: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-28.14:47:02: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.14:57:13: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-28.14:57:20: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.15:04:11: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.15:04:21: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.15:07:51: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-28.15:07:59: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-28.16:00:02 --------------------
+Requested number of iterations: 150000.
+2017-05-28.16:00:02: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.16:00:12: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-28.16:00:20: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.16:17:25: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.16:17:35: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.16:34:43: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.16:34:53: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.16:52:10: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.16:52:20: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.17:09:41: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.17:09:51: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.17:23:36: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-28.17:23:44: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.17:27:11: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.17:27:21: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.17:34:07: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-28.17:34:14: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.17:44:37: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.17:44:47: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-28.17:44:54: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.17:55:09: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-28.17:55:17: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.18:02:13: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.18:02:23: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.18:05:45: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-28.18:05:53: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.18:16:28: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-05-28.18:16:36: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.18:20:06: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.18:20:17: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.18:27:24: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-05-28.18:27:32: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.18:38:09: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.18:38:20: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-28.18:38:28: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.18:49:07: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-28.18:49:15: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.18:56:28: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.18:56:39: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.19:10:50: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-28.19:10:58: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.19:14:27: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.19:14:38: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.19:32:05: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.19:32:16: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-28.19:32:24: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.19:49:59: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.19:50:10: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.19:53:42: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-28.19:53:50: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-28.19:56:41 --------------------
+Requested number of iterations: 150000.
+2017-05-28.19:56:41: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.19:56:51: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-28.19:56:59: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-28.20:02:14 --------------------
+Requested number of iterations: 150000.
+2017-05-28.20:02:14: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.20:02:24: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-28.20:02:32: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.20:19:39: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.20:19:49: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.20:36:42: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.20:36:52: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-28.20:53:53: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.20:54:02: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-28.22:40:37 --------------------
+Requested number of iterations: 150000.
+2017-05-28.22:40:37: exe/startRL.exe: file was run 1 or more times.
+2017-05-28.22:40:47: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-28.22:40:56: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-29.00:43:45 --------------------
+Requested number of iterations: 150000.
+2017-05-29.00:43:45: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.00:43:55: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-29.00:44:03: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.01:01:08: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.01:01:18: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.01:18:26: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.01:18:35: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.01:35:38: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.01:35:48: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.01:52:49: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.01:52:58: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.02:06:46: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-29.02:06:54: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.02:10:14: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.02:10:24: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.02:17:05: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-29.02:17:12: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-29.10:56:14 --------------------
+Requested number of iterations: 150000.
+2017-05-29.10:56:14: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.10:56:24: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-29.10:56:31: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.11:13:45: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.11:13:55: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.11:30:57: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.11:31:06: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.11:48:07: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.11:48:17: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.12:05:11: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.12:05:21: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.12:19:10: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-29.12:19:18: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.12:22:45: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.12:22:55: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.12:29:42: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-29.12:29:50: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.12:40:03: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.12:40:13: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-29.12:40:20: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.12:50:42: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-29.12:50:50: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.12:57:45: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.12:57:55: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.13:01:18: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-29.13:01:25: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.13:11:44: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-05-29.13:11:51: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.13:15:12: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.13:15:22: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.13:22:17: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-05-29.13:22:25: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.13:32:46: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.13:32:56: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-29.13:33:04: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.13:43:15: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-29.13:43:22: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.13:50:12: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.13:50:22: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.14:03:56: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-29.14:04:04: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.14:07:33: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.14:07:43: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.14:24:49: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.14:24:59: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-29.14:25:06: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.14:42:11: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.14:42:20: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.14:45:45: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-29.14:45:52: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.14:59:30: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.14:59:40: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.15:06:33: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-29.15:06:40: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.15:16:59: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.15:17:09: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.15:27:20: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-05-29.15:27:28: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.15:34:23: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.15:34:32: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.15:38:01: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-29.15:38:09: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.15:48:26: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-05-29.15:48:34: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.15:51:58: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.15:52:08: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.16:09:25: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.16:09:35: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-29.16:09:43: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.16:26:59: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.16:27:09: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.16:30:36: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-29.16:30:44: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.16:40:58: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-29.16:41:06: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.16:44:31: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.16:44:41: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.17:01:54: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.17:02:03: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-29.19:52:08 --------------------
+Requested number of iterations: 150000.
+2017-05-29.19:52:08: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.19:52:18: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-29.19:52:26: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.20:09:57: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.20:10:07: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.20:27:33: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.20:27:44: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.20:45:01: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.20:45:12: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.21:02:33: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.21:02:44: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.21:16:33: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-29.21:16:41: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.21:20:09: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.21:20:19: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.21:27:08: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-29.21:27:16: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.21:37:31: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.21:37:41: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-29.21:37:48: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.21:48:00: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-29.21:48:08: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.21:54:55: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.21:55:05: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.21:58:28: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-29.21:58:35: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.22:09:01: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-05-29.22:09:09: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.22:12:30: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.22:12:40: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.22:19:26: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-05-29.22:19:34: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.22:29:44: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.22:29:54: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-29.22:30:01: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.22:40:20: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-29.22:40:28: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.22:47:17: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.22:47:27: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.23:01:08: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-29.23:01:16: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.23:04:45: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.23:04:55: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.23:21:52: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.23:22:02: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-29.23:22:09: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.23:39:13: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.23:39:23: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.23:42:44: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-29.23:42:52: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-29.23:56:20: exe/startRL.exe: file was run 1 or more times.
+2017-05-29.23:56:30: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.00:03:17: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-30.00:03:25: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.00:13:31: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.00:13:41: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.00:24:03: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-05-30.00:24:11: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.00:31:03: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.00:31:13: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.00:34:41: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-30.00:34:48: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.00:45:09: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-05-30.00:45:16: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.00:48:44: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.00:48:54: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-30.11:51:12 --------------------
+Requested number of iterations: 150000.
+2017-05-30.11:51:12: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.11:51:24: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-30.11:51:32: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.12:08:27: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.12:08:37: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-30.12:25:20 --------------------
+Requested number of iterations: 150000.
+2017-05-30.12:25:20: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.12:25:30: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-30.12:25:38: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.12:42:56: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.12:43:06: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.13:00:11: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.13:00:21: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.13:17:28: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.13:17:38: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.13:34:43: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.13:34:53: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.13:48:35: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-30.13:48:43: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.13:52:05: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.13:52:15: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.13:59:00: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-30.13:59:08: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.14:09:20: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.14:09:30: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-30.14:09:37: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.14:19:48: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-30.14:19:56: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.14:26:44: exe/startRL.exe: file was run 1 or more times.
+2017-05-30.14:26:54: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-30.14:30:17: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-30.14:30:25: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.11:54:28 --------------------
+Requested number of iterations: 150000.
+2017-05-31.11:54:28: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.11:54:39: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-31.11:54:46: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.12:11:58: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.12:12:07: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.12:29:06: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.12:29:16: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.12:46:20: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.12:46:30: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.13:03:36: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.13:03:46: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.13:17:31: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-31.13:17:39: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.13:21:01: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.13:21:11: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.13:27:55: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-31.13:28:03: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.13:38:18: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.13:38:28: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-05-31.13:38:35: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.13:48:53: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-05-31.13:49:01: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.13:55:52: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.13:56:02: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.13:59:25: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-31.13:59:33: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.14:09:45: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-05-31.14:09:53: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.14:13:20: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.14:13:30: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.14:20:25: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-05-31.14:20:33: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.14:30:53: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.14:31:03: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-31.14:31:11: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.14:41:26: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-05-31.14:41:34: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.14:48:26: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.14:48:35: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.15:02:08: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-05-31.15:02:15: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.15:05:39: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.15:05:49: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.16:31:51 --------------------
+Requested number of iterations: 1.
+2017-05-31.16:31:51: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.16:32:01: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-31.16:32:07: exe/RLBotAutom.exe: file was run 1 or more times.
 ------------------------- Process Completed --------------------------
 ----------------------------------------------------------------------
 
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.16:33:09 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.16:33:59 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.16:35:05 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.16:36:55 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.16:44:26 --------------------
+Requested number of iterations: 150000.
+2017-05-31.16:44:26: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.16:44:36: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-31.16:44:44: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.16:45:25: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-05-31.16:45:33: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.16:48:07 --------------------
+Requested number of iterations: 150000.
+2017-05-31.16:48:07: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.16:48:17: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-31.16:48:26: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.16:49:07: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-05-31.16:49:16: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.16:49:56: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-05-31.16:50:06: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-05-31.16:50:48: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-05-31.16:50:57: exe/RLBotAutom.exe: file was run 1 or more times.

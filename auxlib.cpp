@@ -24,8 +24,22 @@ string lastexe = "";
 void run_exe(string program){
 	if(program != lastexe){ //only update when there's a new program being run.
 		printf("Running: %s...\n", program.c_str());
+		make_log_entry("file was run 1 or more times.", program);
 		lastexe = program;
 	}
+	system(program.c_str());
+}
+
+/*
+ * Runs a file from the program executable folder and shows numerical progress. 
+ * @pre ./exe/program.exe must exist.
+ */
+void run_exe_show_progress(string program, int itor, int max){
+	if(program != lastexe){ //only update when there's a new program being run.
+		make_log_entry("file was run 1 or more times.", program);
+		lastexe = program;
+	}
+	printf("Running: %s...\t(%d/%d)\n", program.c_str(), itor, max);
 	system(program.c_str());
 }
 
@@ -40,13 +54,13 @@ void set_debug_flags(char* optarg){
 
 void start_log_entry(int itors){
 	FILE* log = fopen("log.txt", "a");
-	fprintf(log, "----------------------------------------------------------------------\r\n-------------------- Entry at %s --------------------\r\nRequested number of iterations: %d.\r\n", currentDateTime().c_str(), itors);
+	fprintf(log, "\n----------------------------------------------------------------------\r\n-------------------- Entry at %s --------------------\r\nRequested number of iterations: %d.\r\n", currentDateTime().c_str(), itors);
 	fclose(log);
 }
 
-void make_log_entry(string msg, string callee){
+void make_log_entry(string msg, string program){
 	FILE* log = fopen("log.txt", "a");
-	fprintf(log, "%s-%s: %s\r\n", callee.c_str(), currentDateTime().c_str(), msg.c_str());
+	fprintf(log, "%s: %s: %s\r\n", currentDateTime().c_str(), program.c_str(), msg.c_str());
 	fclose(log);
 }
 

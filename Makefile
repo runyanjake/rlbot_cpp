@@ -4,7 +4,7 @@
 #------------------------------------------------------------------------------
 
 EXECBIN		= rlbot
-MODULES		= auxlib rocketlib
+MODULES		= auxlib fileio rocketlib
 CPP 		= g++ -g -O0 -Wall -Wextra  
 
 HDRSRC		= ${MODULES:=.h}

@@ -10,9 +10,9 @@
 //****Local Includes****
 #include "rocketlib.h"
 #include "auxlib.h"
+#include "fileio.h"
 
 //****Field Declarations****
-static int primes[] = {450,420,390,360,330,300,270,240,210,180,150,120,90,60,30}; 
 
 //****Function Implementations****
 /*
@@ -24,6 +24,10 @@ static int primes[] = {450,420,390,360,330,300,270,240,210,180,150,120,90,60,30}
 void start_rl(){
 	run_exe("exe/startRL.exe");
 }
+//Overloaded method to show iterations.
+void start_rl(int itor, int max){
+	run_exe_show_progress("exe/startRL.exe", itor, max);
+}
 
 /*
  * Runs 5 iterations of a primitive loop to stay in-game indefinitely.
@@ -32,6 +36,10 @@ void start_rl(){
  */
 void bot_loop(){
 	run_exe("exe/RLBotAutom.exe");
+}
+//Overloaded method to show iterations.
+void bot_loop(int itor, int max){
+	run_exe_show_progress("exe/RLBotAutom.exe", itor, max);
 }
 
 /*
@@ -42,6 +50,11 @@ void bot_loop(){
 void send_msg(string msg){
 	string cmd = "exe/send_msg.exe " + msg;
 	run_exe(cmd.c_str());
+}
+//Overloaded method to show iterations.
+void send_msg(string msg, int itor, int max){
+	string cmd = "exe/send_msg.exe " + msg;
+	run_exe_show_progress(cmd.c_str(), itor, max);
 }
 
 /*
@@ -68,22 +81,21 @@ int found_popup(){
  * @param num_iterations The number of iterations to run for.
  */
 void ballcam_switcher_chatty (int num_iterations){
+	queue<string> message_queue = file_to_queue("strings.txt"); //contains all messages.
 	int itor = 0; //iterator counter of loops.
 	while(num_iterations == INFINITY || itor < num_iterations){
 		//Check to see if at menu every 50 iterations.
-		if(itor % 50 == 0 && on_menu()){ start_rl(); } //check for menu every 50 iterations.
+		if(itor % 50 == 0 && on_menu()){ start_rl(itor, num_iterations); } //check for menu every 50 iterations.
 		if(itor % 51 == 0 && found_popup()){ /*Do something*/ } //Check to see if stopped by popup.
-		//Check if we should enter a message.
-		if(itor%(primes[0])==0){ send_msg("sorry+controller+broken"); }
-		else if(itor%(primes[1])==0){ send_msg("this+is+weird+i+cant+move+right"); }
-		else if(itor%(primes[2])==0){ send_msg("my+controller+disconnected+hold+on"); }
-		else if(itor%(primes[3])==0){ send_msg("sorry+getting+a+call"); }
-		else if(itor%(primes[4])==0){ send_msg("cord+got+tangled"); }
-		else if(itor%(primes[5])==0){ send_msg("one+sec"); }
-		else if(itor%(primes[6])==0){ send_msg("pizzas+here+lol"); }
-		else if(itor%(primes[7])==0){ send_msg("one+sec+spilled+my+drink"); }
+		//Check if we should enter a message. If so take first, say it, and requeue.
+		if(itor%35==0){ 
+			string excuse = message_queue.front();
+			message_queue.pop();
+			message_queue.push(excuse);
+			send_msg(excuse, itor, num_iterations);
+		}
 		//Run the bot loop.
-		bot_loop();
+		bot_loop(itor, num_iterations);
 		//Increment loop counter. If infinity no need to do anything.
 		if(num_iterations!=INFINITY)itor++;
 	}

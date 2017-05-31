@@ -21,9 +21,10 @@ extern char* debug_flags;
 
 //****Function Declarations****
 void run_exe(string program);
+void run_exe_show_progress(string program, int itor, int max);
 void set_debug_flags(char* optarg);
 void start_log_entry(int itors);
-void make_log_entry(string msg, string callee);
+void make_log_entry(string msg, string program);
 void end_log_entry();
 string currentDateTime();
 
