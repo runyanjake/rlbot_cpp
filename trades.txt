@@ -1,0 +1,11 @@
+discotheque|none|crimson|13|1|Selling Crimson Disco.
+photon|none|lime|7|1|Selling Lime Photon.
+troika|none|grey|2|1|Selling Grey Troika.
+vortex|none|white|5|1|Selling Titanium White Vortex.
+spiralis|none|black|4|1|Selling Black Spiralis.
+spiralis|none|pink|6|1|Selling Pink Spiralis.
+tachyon|none|pink|7|1|Selling Pink Tachyon.
+chakram|none|cobalt|4|1|Selling Cobalt Chakram.
+breakout|turtle|none|1|1|Selling Turtle Breakout Type-s.
+aqueous|victor|skyblue|1|1|Selling Victor Sky Blue Takumi Aqueous.
+proton|none|none|1|1|Selling Proton Boost.

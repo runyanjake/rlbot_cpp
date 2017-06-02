@@ -552,3 +552,525 @@ Sending string: my+controller+disconnected+hold+on.
 2017-05-31.16:50:48: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
 Sending string: sorry+getting+a+call.
 2017-05-31.16:50:57: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-05-31.21:21:33 --------------------
+Requested number of iterations: 150000.
+2017-05-31.21:21:33: exe/startRL.exe: file was run 1 or more times.
+2017-05-31.21:21:43: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-05-31.21:21:52: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.11:23:50 --------------------
+Requested number of iterations: 150000.
+2017-06-01.11:23:50: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.11:24:00: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.11:24:09: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.11:36:04: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-06-01.11:36:13: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.11:41:24: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.11:41:34: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.11:48:24: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-06-01.11:48:33: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.11:58:52: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.11:59:02: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.12:00:45: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-06-01.12:00:53: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.12:12:44: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-06-01.12:12:53: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.12:16:17: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.12:16:27: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.12:25:02: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-06-01.12:25:10: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.12:33:50: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.12:34:00: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.12:37:20: exe/send_msg.exe pizzas+here+lol: file was run 1 or more times.
+Sending string: pizzas+here+lol.
+2017-06-01.12:37:28: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.12:49:24: exe/send_msg.exe one+sec+spilled+my+drink: file was run 1 or more times.
+Sending string: one+sec+spilled+my+drink.
+2017-06-01.12:49:33: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.12:51:15: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.12:51:25: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.13:02:02: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.13:02:12: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.13:09:22: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.13:09:32: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.13:14:41: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-06-01.13:14:49: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.13:26:48: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.13:26:58: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-06-01.13:27:07: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.14:37:12 --------------------
+Requested number of iterations: 150000.
+2017-06-01.14:37:12: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.14:37:22: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.14:37:31: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.14:49:18: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-06-01.14:49:27: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.14:54:39: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.14:54:49: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.15:01:36: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-06-01.15:01:45: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.15:12:08: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.15:12:18: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.15:13:58: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-06-01.15:14:06: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:40:57 --------------------
+Requested number of iterations: 1.
+2017-06-01.15:40:57: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.15:41:07: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.15:41:16: exe/RLBotAutom.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:42:12 --------------------
+Requested number of iterations: 1.
+2017-06-01.15:42:12: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.15:42:22: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.15:42:31: exe/RLBotAutom.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:43:29 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:46:50 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:47:02 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:50:22 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:52:43 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:53:47 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:58:12 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.15:58:43 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.16:00:28 --------------------
+Requested number of iterations: 1.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.16:46:19 --------------------
+Requested number of iterations: 1.
+2017-06-01.16:46:19: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.16:46:29: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.16:46:38: exe/RLBotAutom.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.17:44:47 --------------------
+Requested number of iterations: 1.
+2017-06-01.17:44:47: /exe/RLGNavToTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.17:45:34 --------------------
+Requested number of iterations: 1.
+2017-06-01.17:45:34: /exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.17:47:30 --------------------
+Requested number of iterations: 1.
+2017-06-01.17:47:30: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.17:49:49 --------------------
+Requested number of iterations: 1.
+2017-06-01.17:49:49: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.17:50:12: exe/send_txt.exe crimson discotheque for 13 keys or items with overpay.
+lime photon for 7 keys or items with overpay.
+: file was run 1 or more times.
+Sending string: crimson.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.17:51:53 --------------------
+Requested number of iterations: 1.
+2017-06-01.17:51:53: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.17:52:16: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.
+lime+photon+for+7+keys+or+items+with+overpay.
+: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay..
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.17:54:20 --------------------
+Requested number of iterations: 1.
+2017-06-01.17:54:20: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.17:54:43: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.=lime+photon+for+7+keys+or+items+with+overpay.=: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.=lime+photon+for+7+keys+or+items+with+overpay.=.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.18:06:38 --------------------
+Requested number of iterations: 1.
+2017-06-01.18:06:38: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.18:07:01: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.=lime+photon+for+7+keys+or+items+with+overpay.=: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.=lime+photon+for+7+keys+or+items+with+overpay.=.
+2017-06-01.18:07:05: exe/RLGSendTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.18:11:46 --------------------
+Requested number of iterations: 1.
+2017-06-01.18:11:46: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.18:12:07: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.=I+also+have+keys+to+buy+crates+or+items.=Add+me+if+you+have+an+offer.lime+photon+for+7+keys+or+items+with+overpay.=I+also+have+keys+to+buy+crates+or+items.=Add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.=I+also+have+keys+to+buy+crates+or+items.=Add+me+if+you+have+an+offer.lime+photon+for+7+keys+or+items+with+overpay.=I+also+have+keys+to+buy+crates+or+items.=Add+me+if+you+have+an+offer..
+2017-06-01.18:12:13: exe/RLGSendTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.18:12:34 --------------------
+Requested number of iterations: 1.
+2017-06-01.18:12:34: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.18:12:54: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.=I+also+have+keys+to+buy+crates+or+items.=Add+me+if+you+have+an+offer.lime+photon+for+7+keys+or+items+with+overpay.=I+also+have+keys+to+buy+crates+or+items.=Add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.=I+also+have+keys+to+buy+crates+or+items.=Add+me+if+you+have+an+offer.lime+photon+for+7+keys+or+items+with+overpay.=I+also+have+keys+to+buy+crates+or+items.=Add+me+if+you+have+an+offer..
+2017-06-01.18:13:00: exe/RLGSendTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.18:14:39 --------------------
+Requested number of iterations: 1.
+2017-06-01.18:14:39: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.18:15:00: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.=+++lime+photon+for+7+keys+or+items+with+overpay.=+++++I+also+have+keys+to+buy+crates+or+items.=+Add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.=+++lime+photon+for+7+keys+or+items+with+overpay.=+++++I+also+have+keys+to+buy+crates+or+items.=+Add+me+if+you+have+an+offer..
+2017-06-01.18:15:05: exe/RLGSendTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.18:17:57 --------------------
+Requested number of iterations: 1.
+2017-06-01.18:17:57: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.18:18:17: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+Add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+Add+me+if+you+have+an+offer..
+2017-06-01.18:18:22: exe/RLGSendTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.20:44:18 --------------------
+Requested number of iterations: 1.
+2017-06-01.20:44:18: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.20:45:43 --------------------
+Requested number of iterations: 1.
+2017-06-01.20:45:43: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.20:46:30 --------------------
+Requested number of iterations: 1.
+2017-06-01.20:46:30: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-01.20:46:44: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.20:46:48: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-01.20:46:53: exe/RLGSendTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.20:47:21 --------------------
+Requested number of iterations: 1.
+2017-06-01.20:47:21: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-01.20:47:43: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.20:48:00: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-01.20:48:05: exe/RLGSendTrade.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.20:50:34 --------------------
+Requested number of iterations: 150000.
+2017-06-01.20:50:34: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.20:50:43: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.20:50:52: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-01.20:51:15: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.20:51:32: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-01.20:51:37: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-01.20:51:49: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.20:57:02 --------------------
+Requested number of iterations: 150000.
+2017-06-01.20:57:02: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.20:57:14: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.20:58:38 --------------------
+Requested number of iterations: 150000.
+2017-06-01.20:58:38: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.20:58:50: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.20:58:58: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.20:59:46 --------------------
+Requested number of iterations: 150000.
+2017-06-01.20:59:46: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.20:59:58: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.21:00:06: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-01.21:00:28: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.21:00:45: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-01.21:00:50: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-01.21:01:03: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.21:01:15: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.21:04:50 --------------------
+Requested number of iterations: 150000.
+2017-06-01.21:04:50: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.21:05:04: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.21:05:12: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-01.21:05:35: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.21:05:52: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-01.21:05:57: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-01.21:06:09: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.21:06:23: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-01.21:10:07 --------------------
+Requested number of iterations: 150000.
+2017-06-01.21:10:07: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.21:10:22: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-01.21:10:30: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-01.21:10:52: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-01.21:11:09: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-01.21:11:14: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-01.21:11:27: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.21:11:41: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.21:23:38: exe/send_msg.exe this+is+weird+i+cant+move+right: file was run 1 or more times.
+Sending string: this+is+weird+i+cant+move+right.
+2017-06-01.21:23:46: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.21:28:55: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.21:29:09: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.21:35:59: exe/send_msg.exe my+controller+disconnected+hold+on: file was run 1 or more times.
+Sending string: my+controller+disconnected+hold+on.
+2017-06-01.21:36:08: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.21:46:21: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.21:46:35: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.21:48:18: exe/send_msg.exe sorry+getting+a+call: file was run 1 or more times.
+Sending string: sorry+getting+a+call.
+2017-06-01.21:48:26: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.22:00:20: exe/send_msg.exe cord+got+tangled: file was run 1 or more times.
+Sending string: cord+got+tangled.
+2017-06-01.22:00:29: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.22:03:59: exe/startRL.exe: file was run 1 or more times.
+2017-06-01.22:04:13: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-01.22:12:47: exe/send_msg.exe one+sec: file was run 1 or more times.
+Sending string: one+sec.
+2017-06-01.22:12:56: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:32:07 --------------------
+Requested number of iterations: 8.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:33:42 --------------------
+Requested number of iterations: 8.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:39:23 --------------------
+Requested number of iterations: 8.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:40:08 --------------------
+Requested number of iterations: 8.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:41:03 --------------------
+Requested number of iterations: 1.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:42:30 --------------------
+Requested number of iterations: 1.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:43:04 --------------------
+Requested number of iterations: 1.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:43:32 --------------------
+Requested number of iterations: 1.
+2017-06-02.00:43:32: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-02.00:43:38: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-02.00:43:40: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-02.00:43:47: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-02.00:43:50: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-02.00:43:51: exe/startRL.exe: file was run 1 or more times.
+2017-06-02.00:43:52: exe/RLBotAutom.exe: file was run 1 or more times.
+------------------------- Process Completed --------------------------
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:44:52 --------------------
+Requested number of iterations: 8.
+2017-06-02.00:44:52: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-02.00:45:01: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-02.00:45:23: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-02.00:45:40: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-02.00:45:51: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-02.00:46:04: exe/startRL.exe: file was run 1 or more times.
+2017-06-02.00:46:18: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-02.00:46:58: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-02.00:47:20: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-02.00:47:37: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-02.00:47:48: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-02.00:48:01: exe/startRL.exe: file was run 1 or more times.
+2017-06-02.00:48:15: exe/RLBotAutom.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:52:39 --------------------
+Requested number of iterations: 3.
+2017-06-02.00:52:39: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-02.00:52:48: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-02.00:53:10: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-02.00:53:27: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-02.00:53:38: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-02.00:53:50: exe/startRL.exe: file was run 1 or more times.
+2017-06-02.00:54:04: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-02.00:54:45: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-02.00:55:07: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-02.00:55:24: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-02.00:55:36: exe/RLGSendTrade.exe: file was run 1 or more times.
+
+----------------------------------------------------------------------
+-------------------- Entry at 2017-06-02.00:57:50 --------------------
+Requested number of iterations: 6.
+2017-06-02.00:57:50: exe/send_msg.exe sorry+controller+broken: file was run 1 or more times.
+Sending string: sorry+controller+broken.
+2017-06-02.00:57:59: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-02.00:58:21: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-02.00:58:38: exe/send_txt.exe crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++black+spiralis+for+4+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-02.00:58:46: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-02.00:58:58: exe/startRL.exe: file was run 1 or more times.
+2017-06-02.00:59:12: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-02.00:59:54: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-02.01:00:17: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-02.01:00:34: exe/send_txt.exe pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++victor+skyblue+aqueous+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: pink+spiralis+for+6+keys+or+items+with+overpay.+///+=+++pink+tachyon+for+7+keys+or+items+with+overpay.+///+=+++cobalt+chakram+for+4+keys+or+items+with+overpay.+///+=+++turtle+breakout+for+1+keys+or+items+with+overpay.+///+=+++victor+skyblue+aqueous+for+1+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-02.01:00:41: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-02.01:00:54: exe/startRL.exe: file was run 1 or more times.
+2017-06-02.01:01:08: exe/RLBotAutom.exe: file was run 1 or more times.
+2017-06-02.01:01:51: exe/RLGDeleteLastTrade.exe: file was run 1 or more times.
+2017-06-02.01:02:13: exe/RLGMakeOfferTrade.exe: file was run 1 or more times.
+2017-06-02.01:02:30: exe/send_txt.exe proton+for+1+keys+or+items+with+overpay.+///+=+++crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.: file was run 1 or more times.
+Sending string: proton+for+1+keys+or+items+with+overpay.+///+=+++crimson+discotheque+for+13+keys+or+items+with+overpay.+///+=+++lime+photon+for+7+keys+or+items+with+overpay.+///+=+++grey+troika+for+2+keys+or+items+with+overpay.+///+=+++white+vortex+for+5+keys+or+items+with+overpay.+///+=+++++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer..
+2017-06-02.01:02:38: exe/RLGSendTrade.exe: file was run 1 or more times.
+2017-06-02.01:02:50: exe/startRL.exe: file was run 1 or more times.
+2017-06-02.01:03:04: exe/RLBotAutom.exe: file was run 1 or more times.

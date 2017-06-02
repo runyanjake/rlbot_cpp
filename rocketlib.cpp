@@ -10,7 +10,6 @@
 //****Local Includes****
 #include "rocketlib.h"
 #include "auxlib.h"
-#include "fileio.h"
 
 //****Field Declarations****
 
@@ -58,6 +57,46 @@ void send_msg(string msg, int itor, int max){
 }
 
 /*
+ * Writes text TO THE CURRENT FOCUS.
+ * @param msg The message to be sent.
+ */
+void send_txt(string msg){
+	string cmd = "exe/send_txt.exe " + msg;
+	run_exe(cmd.c_str());
+}
+//Overloaded method to show iterations.
+void send_txt(string msg, int itor, int max){
+	string cmd = "exe/send_txt.exe " + msg;
+	run_exe_show_progress(cmd.c_str(), itor, max);
+}
+
+/*
+ * Navigates to trade page.
+ * @file Uses executable file RLGNavToTrade.exe found in ./exe
+ */
+void RLGNavToTrade(){
+	string cmd = "exe/RLGNavToTrade.exe ";
+	run_exe(cmd.c_str());
+}
+//Overloaded method to show iterations.
+void RLGNavToTrade(int itor, int max){
+	string cmd = "exe/RLGNavToTrade.exe ";
+	run_exe_show_progress(cmd.c_str(), itor, max);
+}
+
+/*
+ * Sends a trade to RLG.
+ * @param trades A queue of trades to be sent.
+ */
+void RLGMakeTrade(offer trade){
+
+}
+//Overloaded method to show iterations.
+void RLGMakeTrade(offer trade, int itor, int max){
+
+}
+
+/*
  * Checks to see if application is on Main Menu.
  * @file Uses executable file "_____" found in ./exe
  * @return true If application is on Main Menu.
@@ -81,21 +120,31 @@ int found_popup(){
  * @param num_iterations The number of iterations to run for.
  */
 void ballcam_switcher_chatty (int num_iterations){
+	queue<offer> offerz = get_trades();
 	queue<string> message_queue = file_to_queue("strings.txt"); //contains all messages.
 	int itor = 0; //iterator counter of loops.
 	while(num_iterations == INFINITY || itor < num_iterations){
 		//Check to see if at menu every 50 iterations.
-		if(itor % 50 == 0 && on_menu()){ start_rl(itor, num_iterations); } //check for menu every 50 iterations.
+		//if(itor % 50 == 0 && on_menu()){ start_rl(itor, num_iterations); } //check for menu every 50 iterations.
+		
 		if(itor % 51 == 0 && found_popup()){ /*Do something*/ } //Check to see if stopped by popup.
 		//Check if we should enter a message. If so take first, say it, and requeue.
+		
 		if(itor%35==0){ 
 			string excuse = message_queue.front();
 			message_queue.pop();
 			message_queue.push(excuse);
 			send_msg(excuse, itor, num_iterations);
+		
+		}
+		if(itor%65==0){
+			trade_poster(&offerz);
+			start_rl();
+		
 		}
 		//Run the bot loop.
 		bot_loop(itor, num_iterations);
+		
 		//Increment loop counter. If infinity no need to do anything.
 		if(num_iterations!=INFINITY)itor++;
 	}
@@ -103,7 +152,36 @@ void ballcam_switcher_chatty (int num_iterations){
 
 /*
  * Posts trade onto RLGarage.
+ * @pre Assume we're on the create trade page.
  */
-void trade_poster(){
+void trade_poster(queue<offer>* offerz){
+	run_exe("exe/RLGDeleteLastTrade.exe");
+	run_exe("exe/RLGMakeOfferTrade.exe");
+	string whattosay = "";
+	for(int a = 0; a < 5; a++){
+		offer offr = offerz->front();
+		offerz->pop();
+		offerz->push(offr);
+		if(!(offr.item.cert == "none" || offr.item.cert == "")){
+			whattosay = whattosay + offr.item.cert + "+";
+		}
+		if(!(offr.item.paint == "none" || offr.item.paint == "")){
+			whattosay = whattosay + offr.item.paint + "+";
+		}
+		whattosay = whattosay + offr.item.name + "+for+";
+		//get key value into string
+		stringstream ss;
+		ss << offr.price;
+		string price = ss.str();
+		whattosay = whattosay + price + "+keys+";
+		if(offr.offer){
+			whattosay = whattosay + "or+items+with+overpay.+///+";
+		}else{
+			whattosay = whattosay + "only.+///+";
+		}
+		whattosay = whattosay + "=+++";
+	}
+	send_txt(whattosay + "++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.");
 
+	run_exe("exe/RLGSendTrade.exe");
 }
