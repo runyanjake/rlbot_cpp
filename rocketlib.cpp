@@ -137,7 +137,7 @@ void ballcam_switcher_chatty (int num_iterations){
 			send_msg(excuse, itor, num_iterations);
 		
 		}
-		if(itor%65==0){
+		if(itor%30==0){
 			trade_poster(&offerz);
 			start_rl();
 		
