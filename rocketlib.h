@@ -30,7 +30,9 @@ void RLGMakeTrade(offer trade, int itor, int max);
 int on_menu();
 int found_popup();
 
-void ballcam_switcher_chatty (int num_iterations);
+void ballcam_switcher_chatty (int num_iterations, int sendingMessages, int tradingOffers, int tradingCrates, int buyingCrates);
 void trade_poster(queue<offer>* offerz);
+void crate_trader();
+void crate_buyer();
 
 #endif

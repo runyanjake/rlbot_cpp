@@ -20,7 +20,10 @@ exebin : ${OBJECTS}
 	${CPP} -c $<
 
 run: ${EXECBIN}
-	./${EXECBIN} 150000
+	./${EXECBIN} 150000 1 1 0 0
+
+trades: ${EXECBIN}
+	./${EXECBIN} 150000 1 1 1 1
 
 debug: ${EXEBIN}
 	./${EXECBIN} -dd

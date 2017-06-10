@@ -89,7 +89,7 @@ void RLGNavToTrade(int itor, int max){
  * @param trades A queue of trades to be sent.
  */
 void RLGMakeTrade(offer trade){
-
+	
 }
 //Overloaded method to show iterations.
 void RLGMakeTrade(offer trade, int itor, int max){
@@ -119,7 +119,7 @@ int found_popup(){
  * Can maintain basic activity in unranked games. Makes comment to opponent every once and awhile.
  * @param num_iterations The number of iterations to run for.
  */
-void ballcam_switcher_chatty (int num_iterations){
+void ballcam_switcher_chatty (int num_iterations, int sendingMessages, int tradingOffers, int tradingCrates, int buyingCrates){
 	queue<offer> offerz = get_trades();
 	queue<string> message_queue = file_to_queue("strings.txt"); //contains all messages.
 	int itor = 0; //iterator counter of loops.
@@ -128,20 +128,31 @@ void ballcam_switcher_chatty (int num_iterations){
 		//if(itor % 50 == 0 && on_menu()){ start_rl(itor, num_iterations); } //check for menu every 50 iterations.
 		
 		if(itor % 51 == 0 && found_popup()){ /*Do something*/ } //Check to see if stopped by popup.
+
 		//Check if we should enter a message. If so take first, say it, and requeue.
-		
-		if(itor%35==0){ 
+		if(sendingMessages && itor%35==0){ 
 			string excuse = message_queue.front();
 			message_queue.pop();
 			message_queue.push(excuse);
 			send_msg(excuse, itor, num_iterations);
 		
 		}
-		if(itor%30==0){
+
+		//See if we should make a trade offer.
+		if(tradingOffers && itor%30==0){
 			trade_poster(&offerz);
-			start_rl();
-		
 		}
+
+		//check to see if we should make a crate offer.
+		if(tradingCrates && itor%15==0){
+			crate_trader();
+		}
+
+		//check to see if we should make a crate offer.
+		if(buyingCrates && itor%15==0){
+			crate_buyer();
+		}
+
 		//Run the bot loop.
 		bot_loop(itor, num_iterations);
 		
@@ -182,6 +193,30 @@ void trade_poster(queue<offer>* offerz){
 		whattosay = whattosay + "=+++";
 	}
 	send_txt(whattosay + "++I+also+have+keys+to+buy+crates+or+items.=+add+me+if+you+have+an+offer.");
-
 	run_exe("exe/RLGSendTrade.exe");
+	start_rl();
+}
+
+/*
+ * Post crate trade to RLG.
+ * @pre assume we're on the page 
+ */
+void crate_trader(){
+	run_exe("exe/RLGDeleteLastTrade.exe");
+	run_exe("exe/RLGTradeCratesForKeys.exe");
+	send_txt("selling+cc1+cc2+cc3+cc4+++11+to+1.=+add+me+if+you+want+to+trade.");
+	run_exe("exe/RLGSendTrade.exe");
+	start_rl();
+}
+
+/*
+ * Post crate trade to RLG.
+ * @pre assume we're on the page 
+ */
+void crate_buyer(){
+	run_exe("exe/RLGDeleteLastTrade.exe");
+	run_exe("exe/RLGTradeForCrates.exe");
+	send_txt("buying+cc1+cc2+cc3+cc4+++18+to+1.+will+give+better+rates+if+youre+selling+a+lot.=+add+me+if+you+want+to+trade.");
+	run_exe("exe/RLGSendTrade.exe");
+	start_rl();
 }
