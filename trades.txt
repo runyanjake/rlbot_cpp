@@ -1,23 +1,25 @@
-troika|none|grey|2|1|Selling Grey Troika.
+alchemist|none|black|3|1|Selling Black Alchemist.
 aqueous|victor|skyblue|1|1|Selling Victor Sky Blue Takumi Aqueous.
-octane+zsr|none|none|1|1|Selling Octane ZSR body.
 breakout+type+s|turtle|none|1|1|Selling Turtle Breakout Type-s.
-discotheque|none|crimson|13|1|Selling Crimson Disco.
-photon|none|lime|7|1|Selling Lime Photon.
-photon|acrobat|none|1|1|Selling Acrobat Photon.
-proton|none|none|1|1|Selling Proton Boost.
-spiralis|none|black|4|1|Selling Black Spiralis.
-spiralis|none|pink|6|1|Selling Pink Spiralis.
-tachyon|none|pink|7|1|Selling Pink Tachyon.
 chakram|none|cobalt|4|1|Selling Cobalt Chakram.
-dominus+rlcs+decal|sniper|forest+green|8|1|Selling FG sniper Domgt RLCS decal.
-photon|none|cobalt|4|1|Selling cobalt photon.
-wildcat+ears|none|lime|2|1|Selling wildcat ears.
-discotheque|forest+green|none|4|1|Selling forest green disco.
-furry|none|none|1|1|Selling furry.
-hexphase|sniper|none|1|1|Selling sniper hexphase.
+dieci|none|orange|2|1|Selling Orange Dieci.
+discotheque|none|crimson|11|1|Selling Crimson Disco.
+discotheque|victor|crimson|13|1|Selling Crimson Victor Disco.
+discotheque|none|orange|6|1|Selling Orange Disco.
 hypernova|striker|none|3|1|Selling striker hypernova.
-vortex|none|white|5|1|Selling White Vortex.
-spyder|none|crimson|1|1|Selling crimson spyder.
-vortex|none|purple|3|1|Selling Purple Vortex.
+looper|none|pink|11|1|Selling Pink Looper
+photon|acrobat|none|1|1|Selling Acrobat Photon.
+photon|none|cobalt|4|1|Selling cobalt photon.
+photon|none|lime|6|1|Selling Lime Photon.
 photon|none|orange|5|1|Selling orange photon.
+proton|none|none|1|1|Selling Proton Boost.
+royal+crown|none|sienna|1|1|Selling BS Crown.
+spiralis|none|black|4|1|Selling Black Spiralis.
+spiralis|none|pink|5|1|Selling Pink Spiralis.
+spyder|none|crimson|1|1|Selling crimson spyder.
+sunburst|none|forest+green|2|1|Selling FG Sunburst.
+tachyon|none|pink|6|1|Selling Pink Tachyon.
+troika|none|grey|1|1|Selling Grey Troika.
+unicorn|none|black|2|1|Selling Black Unicorn.
+voltaic|none|burnt+sienna|5|1|Selling BS Voltaic.
+wildcat+ears|none|purple|2|1|Selling wildcat ears.

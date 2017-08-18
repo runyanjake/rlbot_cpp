@@ -85,6 +85,22 @@ void RLGNavToTrade(int itor, int max){
 }
 
 /*
+ * Restarts from getting stuck out of active game.
+ * @file Uses executable file RLGNavToTrade.exe found in ./exe
+ */
+void toMainRestart(){
+	string cmd = "exe/toMainMenu.exe ";
+	run_exe(cmd.c_str());
+	start_rl();
+}
+//Overloaded method to show iterations.
+void toMainRestart(int itor, int max){
+	string cmd = "exe/toMainMenu.exe ";
+	run_exe_show_progress(cmd.c_str(), itor, max);
+	start_rl();
+}
+
+/*
  * Sends a trade to RLG.
  * @param trades A queue of trades to be sent.
  */
@@ -135,7 +151,6 @@ void ballcam_switcher_chatty (int num_iterations, int sendingMessages, int tradi
 			message_queue.pop();
 			message_queue.push(excuse);
 			send_msg(excuse, itor, num_iterations);
-		
 		}
 
 		//See if we should make a trade offer.
@@ -153,12 +168,17 @@ void ballcam_switcher_chatty (int num_iterations, int sendingMessages, int tradi
 			crate_buyer();
 		}
 
+		//every once and awhile, do a restart if we've gotten stuck in training.
+		if(itor%200==0){
+			toMainRestart();
+		}
+
 		//Run the bot loop.
 		bot_loop(itor, num_iterations);
 		
 		//Increment loop counter. If infinity no need to do anything.
 		if(num_iterations!=INFINITY)itor++;
-	}
+	} 
 }
 
 /*
@@ -216,7 +236,7 @@ void crate_trader(){
 void crate_buyer(){
 	run_exe("exe/RLGDeleteLastTrade.exe");
 	run_exe("exe/RLGTradeForCrates.exe");
-	send_txt("buying+cc1+cc2+cc3+cc4+++18+to+1.+will+give+better+rates+if+youre+selling+a+lot.=+add+me+if+you+want+to+trade.");
+	send_txt("buying+cc1+cc2+cc3+cc4+++24+to+1.+will+give+better+rates+if+youre+selling+a+lot.=+add+me+if+you+want+to+trade.");
 	run_exe("exe/RLGSendTrade.exe");
 	start_rl();
 }
